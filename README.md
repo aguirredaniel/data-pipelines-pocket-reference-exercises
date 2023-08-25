@@ -1,1 +1,1 @@
-# data-pipelines-pocket-reference-exercises
+# Data Pipelines Pocket Reference Exercises
